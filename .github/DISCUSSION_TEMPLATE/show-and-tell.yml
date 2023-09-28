@@ -17,7 +17,7 @@ body:
         - "店舗"
         - "イベント"
         - "その他"
-  - type: checkbox
+  - type: checkboxes
     attributes:
       label: 動作確認した機体
       options:
