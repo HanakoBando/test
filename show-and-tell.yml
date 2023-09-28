@@ -1,0 +1,35 @@
+labels: [Show and tell]
+body:
+  - type: input
+    attributes:
+      label: アプリのタイトル
+      placeholder: 1行程度で作成したアプリができることを説明してください
+  - type: input
+    attributes:
+      label: リンク
+      placeholder: アプリについての情報を掲載したGitHub, ブログ等へのリンクを貼ってください
+  - type: dropdown
+    attributes:
+      label: 使用する場所
+      description: 作成したアプリの使用を想定した環境を教えてください
+      option: 
+        - "工場"
+        - "店舗"
+        - "イベント"
+        - "その他"
+  - type: checkbox
+    attributes:
+      label: 動作確認した機体
+      option:
+        - "05E2"
+        - "10E2"
+        - "15E2"
+        - "メカロン"
+        - "その他"
+  - type: input
+    attributes:
+      label: 動作確認したDNEバージョン
+  - type: textarea
+    attributes:
+      label: アプリの詳細説明
+      placeholder: 試しに使ってみたくなるような紹介をお願いします!
