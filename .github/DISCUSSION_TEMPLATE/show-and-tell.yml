@@ -21,11 +21,11 @@ body:
     attributes:
       label: 動作確認した機体
       options:
-        - "05E2"
-        - "10E2"
-        - "15E2"
-        - "メカロン"
-        - "その他"
+        - label: "05E2"
+        - label: "10E2"
+        - label: "15E2"
+        - label: "メカロン"
+        - label: "その他"
   - type: input
     attributes:
       label: 動作確認したDNEバージョン
