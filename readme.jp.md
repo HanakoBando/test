@@ -20,9 +20,9 @@ MQTT for DNEは、Doog社製品のロボットのうちMQTTでの通信が可能
 - [LICENSE](LICENSE)
 
 # 問合せ
-本リポジトリではpull requestやissueは受け付けておりません。技術フォーラムへお問合せください。
+本リポジトリではpull requestやissueは受け付けておりません。[技術フォーラム](https://github.com/HanakoBando/test/discussions)へお問合せください。
 
 # 関連ページ
-- [テストページ](index.html)
+- [テストページ](http://sample-app.doog-cloud.com/)
 - [英語版README](readme.md)
 
