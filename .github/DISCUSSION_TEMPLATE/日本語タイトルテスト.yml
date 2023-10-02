@@ -1,0 +1,35 @@
+labels: [日本語タイトルテスト]
+body:
+  - type: input
+    attributes:
+      label: リンク
+      placeholder: アプリについての情報を掲載したGitHub, ブログ等へのリンクを貼ってください
+  - type: dropdown
+    attributes:
+      label: 使用する場所
+      description: 作成したアプリの使用を想定した環境を教えてください
+      options: 
+        - "工場"
+        - "店舗"
+        - "イベント"
+        - "その他"
+  - type: input
+    attributes:
+      label: 『その他』の具体的な内容
+      placeholder: 上記で『その他』を選択した場合、具体的に記入してください
+  - type: checkboxes
+    attributes:
+      label: 機体
+      options:
+        - label: "05E2"
+        - label: "10E2"
+        - label: "15E2"
+        - label: "メカロン"
+        - label: "その他"
+  - type: input
+    attributes:
+      label: 動作確認したDNEバージョン
+  - type: textarea
+    attributes:
+      label: アプリの詳細説明
+      placeholder: 試しに使ってみたくなるような紹介をお願いします!
