@@ -14,10 +14,10 @@ MQTT for DNEは、Doog社製品のロボットのうちMQTTでの通信が可能
     - Safari(iOS)
 
 # 使い方
-- [ブラウザ版アプリの操作方法](PDFファイルへのリンク?)を参照
+- [ブラウザ版アプリの操作方法](PDFファイルへのリンク?)を参照 (←リンク先は閲覧不可)
 
 # ライセンス表示
-- [LICENSE](LICENSE)
+- [LICENSE](LICENSE) (←ライセンスファイルがダウンロードされる)
 
 # 問合せ
 本リポジトリではpull requestやissueは受け付けておりません。[技術フォーラム](https://github.com/HanakoBando/test/discussions)へお問合せください。
